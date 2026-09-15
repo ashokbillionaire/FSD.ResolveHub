@@ -11,7 +11,7 @@ authentication anywhere in the codebase.
 
 ---
 
-## Table of contents
+## Table of contents.
 
 1. [Problem statement](#1-problem-statement)
 2. [Objectives](#2-objectives)
